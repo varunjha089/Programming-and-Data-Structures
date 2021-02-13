@@ -1,6 +1,11 @@
 # Programming & Data Structures
  
-[Program Page](https://www.edx.org/microbachelors/nyux-programming-data-structures)
+
+ ![**This image is solo asset of NYU. To remove please contact.**](/assets/nyu_logo.png)
+ 
+ 
+
+[EDX Program Page](https://www.edx.org/microbachelors/nyux-programming-data-structures)
 
 
 | Course No. | Course Name | Description | Certificate Url |
