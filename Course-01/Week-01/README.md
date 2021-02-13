@@ -67,4 +67,4 @@ int main()
 
 ### Lab Files
 
-You can find[Hello World Lab](/Course-01/Week-01/hello_world_lab.cpp) contains solution to hello world lab.
+You can find [Hello World Lab](/Course-01/Week-01/hello_world_lab.cpp) contains solution to hello world lab.
