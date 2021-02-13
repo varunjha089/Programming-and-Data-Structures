@@ -6,7 +6,7 @@
 
 | Week | Description |
 |---|---|
-| [Week-01](Course-01/Week-01) | Your First C++ Program |
+| [Week-01](/Course-01/Week-01) | Your First C++ Program |
 
 
 
