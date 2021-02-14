@@ -83,7 +83,7 @@ These files are based on **`int`** data types.
 |---|---|
 | [dateTime.cpp](dateTime.cpp) | This C++ program will print no. of weeks and days in given amount of days |
 | [dateTimeInput.cpp](dateTimeInput.cpp) | This C++ program will print no. of weeks and days in given amount of days entered by the user. |
-| [dateTimeRepeted.cpp](dateTimeRepeted.cpp) | This C++ program will print no. of weeks and days in given amount of days entered by the user, and repeat itself until user wants. |
+| [dateTimeRepeated.cpp](dateTimeRepeated.cpp) | This C++ program will print no. of weeks and days in given amount of days entered by the user, and repeat itself until user wants. |
 
 
 These files are based on **float** and **double** data types.
@@ -102,3 +102,25 @@ These files are based on **char** data types.
 
 ### Lab Files.
 **->** No Lab this week.
+
+## Type Casting 
+
+The syntax for casting is:
+
+```console
+(data_type)expression;
+```
+
+An example of this is.
+
+```cpp
+int like = 56;
+double take;
+
+take = (double)like;
+```
+
+Some more resources:
+- [Programiz](https://www.programiz.com/cpp-programming/type-conversion)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/type-conversion-in-c/)
+
