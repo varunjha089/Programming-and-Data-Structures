@@ -38,6 +38,22 @@ In this week we learn about **`Data Types and Expression`** in **C++**.
         - **pointer**
         - **reference**
 
+2. Size and range of C++ basic data type
+
+| Type | Bytes | Range |
+|---|---|---|
+| char & signed char| 1 | -128 to 127 |
+| unsigned char | 1 | 0 to 255 | 
+| int, signed int, & sort int | 2 | -31768 to 32767 |
+| unsigned int & unsigned sort int | 2 | 0 to 65535 |
+| signed sort int | 2 | -32768 to 32767 |
+| long int & signed long int | 4 | -2147483648 to 2147483647 |
+| unsigned long int | 4 | 0 to 4294967295 |
+| float | 4 | 3.4e-38 to 3.43e+38 |
+| double | 8 | 1.7e-308 to  1.7e+308 |
+| long double | 10 | 3.4e-4932 to 1.1e+49332 |
+
+
 
 ## Grades
 
