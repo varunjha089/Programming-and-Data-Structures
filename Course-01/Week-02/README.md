@@ -12,7 +12,17 @@ In this week we learn about **`Data Types and Expression`** in **C++**.
 
 - **`long double`** data type uses **10** bytes.
 
-- 
+- The numbar are represented by **`Floating Point Method (IEEE-745)`**.
+
+- C++ Literal
+    - For **double**: 3.4, 5.986, 6.0.....
+    - For **float**: 3.4f, 5.986f, 6.0f... , Look we are ending with **`f`** for float literal.
+
+- C++ does inplecit conversion of data types when it is operating on different types of data. So, 
+    - In **5.0/2** would be treated and **5.0/2.0** not **5/2** and **5.0** can loose it's significance.
+
+
+
 
 ## Some imprtant Tables 
 
@@ -65,6 +75,30 @@ W3 Schools Tutorials for this Lesson
 - [C++ Strings](https://www.w3schools.com/cpp/cpp_data_types_string.asp)
 
 
+### File Info
+
+These files are based on **`int`** data types.
+
+| File Name | Description |
+|---|---|
+| dateTime.cpp | This C++ program will print no. of weeks and days in given amount of days |
+| dateTimeInput.cpp | This C++ program will print no. of weeks and days in given amount of days entered by the user. |
+| dateTimeRepeted.cpp | This C++ program will print no. of weeks and days in given amount of days entered by the user, and repeat itself until user wants. |
+
+
+These files are based on **float** and **double** data types.
+
+| File Name | Description |
+|---|---|
+| circleArea.cpp | In this C++ program we are going to print area of circle. |
+| circleAreaPI.cpp | In this C++ program, we used **`cmath`** to bring exact value of `pi`. |
+
+
+These files are based on **char** data types.
+
+| File Name | Description |
+|---|---|
+| [ASCII_value.cpp](ASCII_value.cpp) | In this C++ program we are going to print ascii value of character intered by user. |
 
 ### Lab Files.
 **->** No Lab this week.
