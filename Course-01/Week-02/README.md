@@ -17,26 +17,15 @@ In this week we learn about **`Data Types and Expression`** in **C++**.
 ## Some imprtant Tables 
 
 1. C++ Data Types
-    - User-Defined Types
-        - **Structure**
-        - **Union**
-        - **Class**
-        - **enumeration**
-    
-    - Built-In Types
-        - Integral Type
-            - **int**
-            - **char**
-        - **Void**
-        - Floating Type
-            - **float**
-            - **double**
-    
-    - Derived Types
-        - **array**
-        - **function**
-        - **pointer**
-        - **reference**
+
+| Basic Types | Further Classification |
+|---|---|
+| User-Defined Types | <ul><li>**Structure**</li><li>**Union**</li><li>**Class**</li><li>**enumeration**</li></ul> |
+| Built-In Types | <ul><li>Integral Type<ul><li><b>int<b></li><li><b>char</b></li></ul></li><li><b>void</b></li><li>Floating Type<ul><li><b>float<b></li><li><b>double</b></li></ul></li></ul> |
+| Derive Types | <ul><li><b>array</b></li><li><b>function</b></li><li><b>pointer</b></li><li><b>reference</b></li></ul> |
+
+
+
 
 2. Size and range of C++ basic data type
 
