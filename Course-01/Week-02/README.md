@@ -52,6 +52,19 @@ In this week we learn about **`Data Types and Expression`** in **C++**.
 
 ### Some Resources
 
+W3 Schools Tutorials for this Lesson
+
+- [C++ Data Types](https://www.w3schools.com/cpp/cpp_data_types.asp)
+
+- [C++ Numbers](https://www.w3schools.com/cpp/cpp_data_types_numeric.asp)
+
+- [C++ Booleans](https://www.w3schools.com/cpp/cpp_data_types_bool.asp)
+
+- [C++ Characters](https://www.w3schools.com/cpp/cpp_data_types_char.asp)
+
+- [C++ Strings](https://www.w3schools.com/cpp/cpp_data_types_string.asp)
 
 
-### Lab Files
+
+### Lab Files.
+**->** No Lab this week.
