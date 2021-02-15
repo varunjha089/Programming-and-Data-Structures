@@ -40,7 +40,7 @@ So,
 
 in mathematical expression becomes
 
-**20 * 0.25 + 4 * 0.1 + 13 * 0.05 + 17 * 0.01** = **5 + 0.4 + 0.65 + 0.17** = <u>**6.22**</u>
+- **20 * 0.25 + 4 * 0.1 + 13 * 0.05 + 17 * 0.01** = **5 + 0.4 + 0.65 + 0.17** = <u>**6.22**</u>
 
 ### How code will run.
 ```console
@@ -78,7 +78,7 @@ So if we enter:
 
 The mathematical expression becomes:
 
-**2 * 100 + 37** = **237** cents.
+- **2 * 100 + 37** = **237** cents.
 
 Now, 
 
@@ -114,9 +114,39 @@ The coins are 9 quarters, 1 dimes, 0 nickels and 2 pennies
 
 ## <span style="text-decoration:underline">03. BMI Metric Lab</span>
 
-The formula for **`BMI`** is:-
+In this lab we will asks the user to enter **weight** and **height** and we will calculate **BMI** in C++.
+
+### The formula for **`BMI`** is:-
 
     Weight / (Height**2)
 
 `Where weight is in kilograms and height is in meters.`
 
+So if we enter:
+
+- weight = 50
+- height = 1.58
+
+The mathematical expression becomes:
+
+- **50 / 1.58^2** = **20.03**.
+
+
+```console
+ubuntu@ip:~$ g++ bmimetric.cpp && ./a.out 
+Please enter weight in kilograms: 50
+Please enter height in meters: 1.58
+BMI is: 20.03
+```
+
+### Autograder Results for `BMI Metric Lab`
+
+- Evaluating Test 1 Output (2.0/2.0)
+
+- Evaluating Test 2 Output (2.0/2.0)
+
+- Evaluating Test 3 Output (2.0/2.0)
+
+- Evaluating Test 4 Output (2.0/2.0)
+
+- Evaluating Test 5 Output (2.0/2.0)
