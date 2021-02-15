@@ -9,7 +9,7 @@ In this week we will code for **`Data Types and Expression Lab`** in C++.
 | 01. | Coin Counter Lab | [counter.cpp](counter01.cpp) |
 | 02. | Coin Converter Lab | [coins.cpp](coins.cpp) |
 | 03. | BMI Metric Lab | [bmimetric.cpp](bmimetric.cpp) |
-| 04. | BMI Imperial Lab | |
+| 04. | BMI Imperial Lab | [bmiimperial.cpp](bmiimperial.cpp) |
 
 
 ## <span style="text-decoration:underline">01. Coin Counter Lab</span>
