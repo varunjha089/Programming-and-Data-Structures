@@ -20,3 +20,7 @@
 ```console
 ubuntu@ip:~/$ g++ addingNumber.cpp && ./a.out
 ```
+
+# Resources 
+
+- [C++](https://www.cplusplus.com/reference/cmath/)
