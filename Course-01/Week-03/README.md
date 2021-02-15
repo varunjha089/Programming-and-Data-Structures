@@ -178,7 +178,7 @@ Please enter height in inches: 71
 BMI is: 18.83
 ```
 
-### Autograder Results for `BMI Metric Lab`
+### Autograder Results for `BMI Imperial Lab`
 
 - Evaluating Test 1 Output (2.0/2.0)
 
