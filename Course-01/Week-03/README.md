@@ -150,3 +150,43 @@ BMI is: 20.03
 - Evaluating Test 4 Output (2.0/2.0)
 
 - Evaluating Test 5 Output (2.0/2.0)
+
+
+<br>
+<br>
+
+## <span style="text-decoration:underline">04. BMI Imperial Lab</span>
+
+We are basically following the older lab but we are taking weight in ponds and height in inches. So, our math will be:
+
+So if we enter:
+
+- weight = 135
+- height = 71
+
+`Where weight is in ponds and height is in inches.`
+
+The mathematical expression becomes:
+
+- **(135 * 0.453592  ) / (71 * 0.0254)^2** = **20.03**.
+
+
+```console
+ubuntu@ip:~$ g++ bmiimperial.cpp && ./a.out
+Please enter weight in pounds: 135
+Please enter height in inches: 71
+BMI is: 18.83
+```
+
+### Autograder Results for `BMI Metric Lab`
+
+- Evaluating Test 1 Output (2.0/2.0)
+
+- Evaluating Test 2 Output (2.0/2.0)
+
+- Evaluating Test 3 Output (2.0/2.0)
+
+- Evaluating Test 4 Output (2.0/2.0)
+
+- Evaluating Test 5 Output (2.0/2.0)
+
