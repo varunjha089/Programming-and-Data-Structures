@@ -23,4 +23,4 @@ ubuntu@ip:~/$ g++ addingNumber.cpp && ./a.out
 
 # Resources 
 
-- [C++](https://www.cplusplus.com/reference/cmath/)
+- [C++ cmath reference](https://www.cplusplus.com/reference/cmath/)
