@@ -12,7 +12,7 @@ In this week we will code for **`Data Types and Expression Lab`** in C++.
 | 04. | BMI Imperial Lab | |
 
 
-## <u>01. Coin Counter Lab</u>
+## <span style="text-decoration:underline">01. Coin Counter Lab</span>
 
 In this lab we will asks the user to enter a number of quarters, dimes, nickels and pennies and then outputs the monetary value of the coins in the format of dollars and remaining cents in **`C++`**.
 
@@ -54,5 +54,22 @@ in mathematical expression becomes
 
 - Take care of **spellings** in output messages.
 
-## <u>02. Coin Converter Lab</u>
+## <span style="text-decoration:underline">02. Coin Converter Lab</span>
+
+This lab is basically continuation of previous lab but other way around. In this lab we will asks the user to enter a number of dollars and remaining cents and then outputs the monetary value of the coins in the format of quarters, dimes, nickels and pennies in **`C++`**.
+
+So if we enter:
+
+- dollars = 2
+- cents = 37
+
+The mathematical expression becomes:
+
+**2 * 100 + 37** = **237** cents.
+
+Now, 
+
+**quarter = 237/0.25**
+
+like this we can calculate the others.
 
