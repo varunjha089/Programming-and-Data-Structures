@@ -54,6 +54,7 @@ Write a program that inputs two grades separated by a space.
 
 ## Conclusion
 
+In first Project we validated our knowledge of `conditional` statements in C++.
 <br>
 <br>
 

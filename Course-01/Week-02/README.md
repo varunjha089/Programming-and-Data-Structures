@@ -74,6 +74,7 @@ W3 Schools Tutorials for this Lesson
 
 - [C++ Strings](https://www.w3schools.com/cpp/cpp_data_types_string.asp)
 
+<br>
 
 ### File Info
 
@@ -84,8 +85,9 @@ These files are based on **`int`** data types.
 | [dateTime.cpp](dateTime.cpp) | This C++ program will print no. of weeks and days in given amount of days |
 | [dateTimeInput.cpp](dateTimeInput.cpp) | This C++ program will print no. of weeks and days in given amount of days entered by the user. |
 | [dateTimeRepeated.cpp](dateTimeRepeated.cpp) | This C++ program will print no. of weeks and days in given amount of days entered by the user, and repeat itself until user wants. |
+| [convertToUpper.cpp](convertToUpper.cpp) | This C++ program will convert lower case letter to upper case letter. |
 
-
+<br>
 These files are based on **float** and **double** data types.
 
 | File Name | Description |
