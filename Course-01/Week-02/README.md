@@ -86,6 +86,7 @@ These files are based on **`int`** data types.
 | [dateTimeInput.cpp](dateTimeInput.cpp) | This C++ program will print no. of weeks and days in given amount of days entered by the user. |
 | [dateTimeRepeated.cpp](dateTimeRepeated.cpp) | This C++ program will print no. of weeks and days in given amount of days entered by the user, and repeat itself until user wants. |
 | [convertToUpper.cpp](convertToUpper.cpp) | This C++ program will convert lower case letter to upper case letter. |
+| [strings.cpp](strings.cpp) | In this we will learn about strings in C++. |
 
 <br>
 These files are based on **float** and **double** data types.
@@ -122,7 +123,17 @@ double take;
 take = (double)like;
 ```
 
-Some more resources:
+
+<br>
+
+## #include <string>
+
+String is not a built-in data-type. To use it we need to include **`string`** in our C++ program.
+
+<br>
+
+## Some more resources:
 - [Programiz](https://www.programiz.com/cpp-programming/type-conversion)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/type-conversion-in-c/)
+- [String w3school](https://www.w3schools.com/cpp/cpp_strings.asp)
 
