@@ -130,6 +130,22 @@ take = (double)like;
 
 String is not a built-in data-type. To use it we need to include **`string`** in our C++ program.
 
+```cpp
+#include <iostream>
+#include <string>                                       // To use string's in C++.
+
+int main(){
+    string s;                                           // Declaring string variable
+
+    s = "Hello, World!";                                // Adding value to string variable s
+
+    cout << s << endl;                                  // printing string variable s.
+
+    cout << s + " I am Varun KUmar." << endl;           // Concatenation in string.
+
+    return 0;
+}
+```
 <br>
 
 ## Some more resources:
