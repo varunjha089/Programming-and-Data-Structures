@@ -89,7 +89,9 @@ Write a program that takes in a year as input (as a command line argument) and r
 
 - In first Project we validated our knowledge of `conditional` statements in C++.
 
-- 
+- In Second Project we validated our knowledge of `complex conditional` statements in C++.
+
+
 <br>
 <br>
 
