@@ -38,3 +38,27 @@ Please enter a positive integer: 3
 
 
 ## <span style="text-decoration:underline">01. Fibonacci Lab</span>
+
+For example, one execution would look like this:
+```console
+ubuntu@ip:~$ g++ fibonacci.cpp && ./a.out 
+Please enter a positive integer greater than 1: 6
+1
+1
+2
+3
+5
+8
+```
+
+### Autograder Results
+
+- Evaluating Test 1 Output (2.0/2.0)
+
+- Evaluating Test 2 Output (2.0/2.0)
+
+- Evaluating Test 3 Output (2.0/2.0)
+
+- Evaluating Test 4 Output (2.0/2.0)
+
+- Evaluating Test 5 Output (2.0/2.0)
