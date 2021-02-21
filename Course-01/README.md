@@ -13,6 +13,8 @@
 | [Week-03](/Course-01/Week-03) | Labs based on Week-02 |
 | [Week-04](/Course-01/Week-04) | Branching in C++ |
 | [Week-05](/Course-01/Week-05) | Labs based on Week-04 |
+| [Week-06](/Course-01/Week-06) | Iteration on C++ |
+| [Week-07](/Course-01/Week-07) | Labs based on Week-06 |
 
 <br>
 
@@ -33,3 +35,8 @@
 - Week-05
     - Week-05 contains labs on topic discussed on [Week-04](Week-04)
 
+- Week-06
+    - Week-06 is about iteration in C++
+
+- Week-07
+    - Week-07 contains labs on topic discussed on [Week-06](Week-06)
