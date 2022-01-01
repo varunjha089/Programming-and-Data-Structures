@@ -81,6 +81,14 @@ For example, 1896, 1904, and 2000 were leap years but 1900 was not.
 
 Write a program that takes in a year as input (as a command line argument) and returns the string "{year} was a leap year'' if true and "{year} was not a leap year'' if false.
 
+#### Autograder Results
+
+- Evaluating 1900 (2.0/2.0)
+- Evaluating 2000 Test (2.0/2.0)
+- Evaluating 2004 Test (2.0/2.0)
+- Evaluating 2012 Test (2.0/2.0)
+- Evaluating 2018 Test (2.0/2.0)
+
 
 <br>
 <br>
@@ -102,5 +110,5 @@ Write a program that takes in a year as input (as a command line argument) and r
 |---|---|---|
 | 01. | Grade Classification Lab            | 10/10 |
 | 02. | Counting Even and Odd Numbers Lab   | 10/10 |
-| 03. | Leap Year Command Line Lab          | /10 |
+| 03. | Leap Year Command Line Lab          | 10/10 |
 
