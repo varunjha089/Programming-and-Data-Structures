@@ -81,6 +81,12 @@ For example, 1896, 1904, and 2000 were leap years but 1900 was not.
 
 Write a program that takes in a year as input (as a command line argument) and returns the string "{year} was a leap year'' if true and "{year} was not a leap year'' if false.
 
+```console
+ubuntu@ip-172-31-18-248:~$ g++ isleapyearc.cpp
+ubuntu@ip-172-31-18-248:~$ ./a.out 2004
+2004 was a leap year
+```
+
 #### Autograder Results
 
 - Evaluating 1900 (2.0/2.0)
